@@ -23,7 +23,7 @@ body{
 	border:4px solid #006837;
 	height:100%;
 	width:100%;
-
+    padding:2%;
 }
 .blok1{
 	height:35%;
@@ -35,5 +35,44 @@ body{
 	width:100%;
 	background-color:yellow;
 	margin-top:5%;
+	text-align:center;
 
+}
+.text{
+	font-size:80px;
+	color:white;
+	text-align:center;
+}
+
+.kuti1{
+	width:250px;
+	height:70px;
+    background-color:#ED1E79;
+    display:inline-block;
+    margin-left:50px;
+    margin-top:150px;
+    border:5px;
+}
+.kuti2{
+	width:250px;
+	height:70px;
+	background-color:#ED1E79;
+	display:inline-block;
+	margin-left:50px;
+
+}
+.kuti3{
+	width:250px;
+	height:70px;
+	background-color:#ED1E79;
+	display:inline-block;
+	margin-left:50px;
+
+}
+.kuti4{
+	width:250px;
+	height:70px;
+	background-color:#ED1E79;
+	display:inline-block;
+	margin-left:50px;
 }
